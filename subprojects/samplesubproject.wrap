@@ -1,0 +1,5 @@
+[wrap-git]
+directory=samplesubproject
+url=https://github.com/pkgzm/samplesubproject.git
+revision=without-meson-build
+patch_directory=samplesubproject-patch
